@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# PIP
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.vscode/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Operating system
+.DS_Store
+Thumbs.db
